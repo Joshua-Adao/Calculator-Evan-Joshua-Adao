@@ -1,0 +1,38 @@
+
+
+
+.button{
+	width: 100px;
+	height: 70px;
+	border-radius: 25px 25px 25px 25px;
+	font-size: 87%;
+}
+
+.display{
+	left: 2px;
+	top: 2px;
+	height: 35px;
+	color: black;
+	text-align: center;
+	font-size: 21px;
+	height: 20px;
+}
+
+#thebody{
+	width: 450px;
+	height: 270px;
+	margin: 0 auto;
+	background-color: rgb(0,184,230);
+	padding: 10px 10px 260px 10px;
+	border-radius: 5px;
+	border-bottom: 5px solid;
+}
+
+.kbutton{
+	width: 100px;
+	height: 70px;
+	border-radius: 25px 25px 25px 25px;
+	background-color: yellow;
+	font-size: 87%;
+}
+
